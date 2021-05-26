@@ -1,1 +1,46 @@
 
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png);
+  margin:10% 15%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #black;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.exp-header {
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.edu-header {
+  text-align: center;
+  color: #B0C4DE;
+  text-transform: uppercase;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 10px;
+  font-weight: bold;
+  
+ }
+
+.com-header {
+  text-align: center;
+  text-transform: uppercase;
+  color: #B0C4DE;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 10px;
+  font-weight: bold;
+    
+}
