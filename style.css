@@ -1,4 +1,5 @@
 
+
 body {
   background-image: url(https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png);
   margin:10% 15%;
@@ -6,26 +7,34 @@ body {
   background-size: cover;
   background-position: center;
   color: #black;
-  font-family: Arial;
+  font-family: arial;
 }
 
 h1 {
   text-align: center;
+  text-shadow: 2px 2px 5px #696969;
+  border-bottom: 1px solid;
+  padding: 10px;
+  font-style: 
+  
 }
 
 .exp-header {
   text-align: center;
   color: black;
+  text-shadow: 2px 2px 5px #696969;
   text-transform: uppercase;
   border-top: 1px solid;
   border-bottom: 1px solid;
   padding: 10px;
   font-weight: bold;
+  
 }
 
 .edu-header {
   text-align: center;
   color: #B0C4DE;
+  text-shadow: 2px 2px 5px #000000 ;
   text-transform: uppercase;
   border-top: 1px solid;
   border-bottom: 1px solid;
@@ -37,6 +46,7 @@ h1 {
 .com-header {
   text-align: center;
   text-transform: uppercase;
+  text-shadow: 2px 2px 5px #000000 ;
   color: #B0C4DE;
   border-top: 1px solid;
   border-bottom: 1px solid;
@@ -44,3 +54,4 @@ h1 {
   font-weight: bold;
     
 }
+
